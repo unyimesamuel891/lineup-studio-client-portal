@@ -4,6 +4,11 @@ Lineup Studio is a full-stack-style client portal for a modern neighborhood barb
 
 This project was designed as a portfolio piece to demonstrate product thinking as much as code. The goal was not to make a decorative landing page, but to build the kind of workflow-heavy app a local service business could actually use.
 
+## Live Project
+
+- Live demo: https://lineup-studio-client-portal.vercel.app
+- Source code: https://github.com/unyimesamuel891/lineup-studio-client-portal
+
 ## What It Demonstrates
 
 - Role-based authentication for customers, staff, and admins
